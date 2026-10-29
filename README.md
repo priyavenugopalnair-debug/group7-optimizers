@@ -2,7 +2,7 @@
 Why optimizers converge differently
 GD / SGD vs L-BFGS on ill-conditioned regression (DATA 220)
 
-**Team:** Sanjana, Priya, Varuna, Jyoti, Saranya
+**Team:** Priya, Varuna,Sanjana, Jyoti, Saranya
 **Presentation:** Nov 2, 2026 (7 min) | **Final:** Dec 7, 2026
 
 ## Research question
