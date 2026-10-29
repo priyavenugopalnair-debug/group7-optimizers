@@ -1,5 +1,5 @@
 # group7-optimizers
-# Group 8: Why optimizers converge differently
+Why optimizers converge differently
 GD / SGD vs L-BFGS on ill-conditioned regression (DATA 220)
 
 **Team:** Sanjana, Priya, Varuna, Jyoti, Saranya
