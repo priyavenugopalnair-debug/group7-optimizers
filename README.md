@@ -119,3 +119,20 @@ If you see a merge conflict, don't force anything. Tell the team which file it n
 - Never change files in `data/`.
 - Before pushing a notebook, run all cells so the outputs are saved in it.
 - Label any number that is not final as "preliminary" or "predicted".
+
+## Final presentation (Mon Dec 7, max 10 minutes)
+
+**Title:** Why training slows down on narrow loss valleys
+**Goal:** Show how much a stretched loss valley slows SGD, and whether L-BFGS copes better.
+
+**What we compare:** GD, SGD and L-BFGS on noise-free 2-parameter regression
+with condition number κ = 1, 3, 10, 30, 100, 300.
+
+**Who does what**
+- Priya: slides 1–2 (intro and goal, the problem), report intro and abstract, README, merging
+- Saranya: slides 5–6, related works, L-BFGS path data
+- Varuna: slides 3 and 7, datasets for κ = 3, 30, 300, Methods A
+- Jyoti: slides 4 and 7, SGD runs, Methods B
+- Sanjana: slides 8–9, check table, timing, results and conclusions
+
+See TASKS.md for deadlines and detailed tasks.
